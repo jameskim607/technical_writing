@@ -118,4 +118,4 @@ clean("data.csv")
 - **Badge Generators**: [shields.io](https://shields.io/)  
 - **TOC Generators**: [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)  
 
-**Golden Rule**: Write for a **new user**—assume zero context. Test your instructions by following them yourself!# technical_writing
+
